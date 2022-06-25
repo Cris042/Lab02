@@ -1,7 +1,7 @@
-<h1 allign="center">
+<h1 align="center">
     Lab 02
 </h1>
-<p allign="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
+<p align="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
 <hr>
 
 ## Tecnologias 🚀 
